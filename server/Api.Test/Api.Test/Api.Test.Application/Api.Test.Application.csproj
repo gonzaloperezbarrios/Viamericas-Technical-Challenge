@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <!--/-:cnd -->
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Api.Test.Domain.Entities\Api.Test.Domain.Entities.csproj" />
+    <ProjectReference Include="..\Api.Test.Domain\Api.Test.Domain.csproj" />
+    <ProjectReference Include="..\Api.Test.Infrastructure.Framework\Api.Test.Infrastructure.Framework.csproj" />
+  </ItemGroup>
+
+</Project>

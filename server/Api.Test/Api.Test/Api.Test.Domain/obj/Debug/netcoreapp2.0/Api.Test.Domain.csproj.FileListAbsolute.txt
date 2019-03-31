@@ -1,0 +1,9 @@
+D:\APPS\Viamericas-Technical-Challenge\server\Api.Test\Api.Test\Api.Test.Domain\bin\Debug\netcoreapp2.0\Api.Test.Domain.deps.json
+D:\APPS\Viamericas-Technical-Challenge\server\Api.Test\Api.Test\Api.Test.Domain\bin\Debug\netcoreapp2.0\Api.Test.Domain.dll
+D:\APPS\Viamericas-Technical-Challenge\server\Api.Test\Api.Test\Api.Test.Domain\bin\Debug\netcoreapp2.0\Api.Test.Domain.pdb
+D:\APPS\Viamericas-Technical-Challenge\server\Api.Test\Api.Test\Api.Test.Domain\obj\Debug\netcoreapp2.0\Api.Test.Domain.csproj.CoreCompileInputs.cache
+D:\APPS\Viamericas-Technical-Challenge\server\Api.Test\Api.Test\Api.Test.Domain\obj\Debug\netcoreapp2.0\Api.Test.Domain.AssemblyInfoInputs.cache
+D:\APPS\Viamericas-Technical-Challenge\server\Api.Test\Api.Test\Api.Test.Domain\obj\Debug\netcoreapp2.0\Api.Test.Domain.AssemblyInfo.cs
+D:\APPS\Viamericas-Technical-Challenge\server\Api.Test\Api.Test\Api.Test.Domain\obj\Debug\netcoreapp2.0\Api.Test.Domain.dll
+D:\APPS\Viamericas-Technical-Challenge\server\Api.Test\Api.Test\Api.Test.Domain\obj\Debug\netcoreapp2.0\Api.Test.Domain.pdb
+D:\APPS\Viamericas-Technical-Challenge\server\Api.Test\Api.Test\Api.Test.Domain\obj\Debug\netcoreapp2.0\Api.Test.Domain.csprojAssemblyReference.cache

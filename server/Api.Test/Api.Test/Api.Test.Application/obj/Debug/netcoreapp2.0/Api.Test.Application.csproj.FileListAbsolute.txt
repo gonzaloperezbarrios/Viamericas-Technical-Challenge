@@ -1,0 +1,16 @@
+D:\APPS\Viamericas-Technical-Challenge\server\Api.Test\Api.Test\Api.Test.Application\bin\Debug\netcoreapp2.0\Api.Test.Application.deps.json
+D:\APPS\Viamericas-Technical-Challenge\server\Api.Test\Api.Test\Api.Test.Application\bin\Debug\netcoreapp2.0\Api.Test.Application.dll
+D:\APPS\Viamericas-Technical-Challenge\server\Api.Test\Api.Test\Api.Test.Application\bin\Debug\netcoreapp2.0\Api.Test.Application.pdb
+D:\APPS\Viamericas-Technical-Challenge\server\Api.Test\Api.Test\Api.Test.Application\bin\Debug\netcoreapp2.0\Api.Test.Domain.dll
+D:\APPS\Viamericas-Technical-Challenge\server\Api.Test\Api.Test\Api.Test.Application\bin\Debug\netcoreapp2.0\Api.Test.Domain.Entities.dll
+D:\APPS\Viamericas-Technical-Challenge\server\Api.Test\Api.Test\Api.Test.Application\bin\Debug\netcoreapp2.0\Api.Test.Infrastructure.Framework.dll
+D:\APPS\Viamericas-Technical-Challenge\server\Api.Test\Api.Test\Api.Test.Application\bin\Debug\netcoreapp2.0\Api.Test.Domain.Entities.pdb
+D:\APPS\Viamericas-Technical-Challenge\server\Api.Test\Api.Test\Api.Test.Application\bin\Debug\netcoreapp2.0\Api.Test.Domain.pdb
+D:\APPS\Viamericas-Technical-Challenge\server\Api.Test\Api.Test\Api.Test.Application\bin\Debug\netcoreapp2.0\Api.Test.Infrastructure.Framework.pdb
+D:\APPS\Viamericas-Technical-Challenge\server\Api.Test\Api.Test\Api.Test.Application\obj\Debug\netcoreapp2.0\Api.Test.Application.csprojAssemblyReference.cache
+D:\APPS\Viamericas-Technical-Challenge\server\Api.Test\Api.Test\Api.Test.Application\obj\Debug\netcoreapp2.0\Api.Test.Application.csproj.CoreCompileInputs.cache
+D:\APPS\Viamericas-Technical-Challenge\server\Api.Test\Api.Test\Api.Test.Application\obj\Debug\netcoreapp2.0\Api.Test.Application.AssemblyInfoInputs.cache
+D:\APPS\Viamericas-Technical-Challenge\server\Api.Test\Api.Test\Api.Test.Application\obj\Debug\netcoreapp2.0\Api.Test.Application.AssemblyInfo.cs
+D:\APPS\Viamericas-Technical-Challenge\server\Api.Test\Api.Test\Api.Test.Application\obj\Debug\netcoreapp2.0\Api.Test.Application.csproj.CopyComplete
+D:\APPS\Viamericas-Technical-Challenge\server\Api.Test\Api.Test\Api.Test.Application\obj\Debug\netcoreapp2.0\Api.Test.Application.dll
+D:\APPS\Viamericas-Technical-Challenge\server\Api.Test\Api.Test\Api.Test.Application\obj\Debug\netcoreapp2.0\Api.Test.Application.pdb

@@ -1,0 +1,9 @@
+D:\APPS\Viamericas-Technical-Challenge\server\Api.Test\Api.Test\Api.Test.Infrastructure.Framework\bin\Debug\netcoreapp2.0\Api.Test.Infrastructure.Framework.deps.json
+D:\APPS\Viamericas-Technical-Challenge\server\Api.Test\Api.Test\Api.Test.Infrastructure.Framework\bin\Debug\netcoreapp2.0\Api.Test.Infrastructure.Framework.dll
+D:\APPS\Viamericas-Technical-Challenge\server\Api.Test\Api.Test\Api.Test.Infrastructure.Framework\bin\Debug\netcoreapp2.0\Api.Test.Infrastructure.Framework.pdb
+D:\APPS\Viamericas-Technical-Challenge\server\Api.Test\Api.Test\Api.Test.Infrastructure.Framework\obj\Debug\netcoreapp2.0\Api.Test.Infrastructure.Framework.csproj.CoreCompileInputs.cache
+D:\APPS\Viamericas-Technical-Challenge\server\Api.Test\Api.Test\Api.Test.Infrastructure.Framework\obj\Debug\netcoreapp2.0\Api.Test.Infrastructure.Framework.AssemblyInfoInputs.cache
+D:\APPS\Viamericas-Technical-Challenge\server\Api.Test\Api.Test\Api.Test.Infrastructure.Framework\obj\Debug\netcoreapp2.0\Api.Test.Infrastructure.Framework.AssemblyInfo.cs
+D:\APPS\Viamericas-Technical-Challenge\server\Api.Test\Api.Test\Api.Test.Infrastructure.Framework\obj\Debug\netcoreapp2.0\Api.Test.Infrastructure.Framework.dll
+D:\APPS\Viamericas-Technical-Challenge\server\Api.Test\Api.Test\Api.Test.Infrastructure.Framework\obj\Debug\netcoreapp2.0\Api.Test.Infrastructure.Framework.pdb
+D:\APPS\Viamericas-Technical-Challenge\server\Api.Test\Api.Test\Api.Test.Infrastructure.Framework\obj\Debug\netcoreapp2.0\Api.Test.Infrastructure.Framework.csprojAssemblyReference.cache

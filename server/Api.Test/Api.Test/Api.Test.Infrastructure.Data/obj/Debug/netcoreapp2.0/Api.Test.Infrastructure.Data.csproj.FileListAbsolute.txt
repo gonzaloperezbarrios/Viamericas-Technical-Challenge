@@ -1,0 +1,16 @@
+D:\APPS\Viamericas-Technical-Challenge\server\Api.Test\Api.Test\Api.Test.Infrastructure.Data\bin\Debug\netcoreapp2.0\Api.Test.Infrastructure.Data.deps.json
+D:\APPS\Viamericas-Technical-Challenge\server\Api.Test\Api.Test\Api.Test.Infrastructure.Data\bin\Debug\netcoreapp2.0\Api.Test.Infrastructure.Data.runtimeconfig.json
+D:\APPS\Viamericas-Technical-Challenge\server\Api.Test\Api.Test\Api.Test.Infrastructure.Data\bin\Debug\netcoreapp2.0\Api.Test.Infrastructure.Data.runtimeconfig.dev.json
+D:\APPS\Viamericas-Technical-Challenge\server\Api.Test\Api.Test\Api.Test.Infrastructure.Data\bin\Debug\netcoreapp2.0\Api.Test.Infrastructure.Data.dll
+D:\APPS\Viamericas-Technical-Challenge\server\Api.Test\Api.Test\Api.Test.Infrastructure.Data\bin\Debug\netcoreapp2.0\Api.Test.Infrastructure.Data.pdb
+D:\APPS\Viamericas-Technical-Challenge\server\Api.Test\Api.Test\Api.Test.Infrastructure.Data\bin\Debug\netcoreapp2.0\Api.Test.Domain.Entities.dll
+D:\APPS\Viamericas-Technical-Challenge\server\Api.Test\Api.Test\Api.Test.Infrastructure.Data\bin\Debug\netcoreapp2.0\Api.Test.Infrastructure.Framework.dll
+D:\APPS\Viamericas-Technical-Challenge\server\Api.Test\Api.Test\Api.Test.Infrastructure.Data\bin\Debug\netcoreapp2.0\Api.Test.Domain.Entities.pdb
+D:\APPS\Viamericas-Technical-Challenge\server\Api.Test\Api.Test\Api.Test.Infrastructure.Data\bin\Debug\netcoreapp2.0\Api.Test.Infrastructure.Framework.pdb
+D:\APPS\Viamericas-Technical-Challenge\server\Api.Test\Api.Test\Api.Test.Infrastructure.Data\obj\Debug\netcoreapp2.0\Api.Test.Infrastructure.Data.csprojAssemblyReference.cache
+D:\APPS\Viamericas-Technical-Challenge\server\Api.Test\Api.Test\Api.Test.Infrastructure.Data\obj\Debug\netcoreapp2.0\Api.Test.Infrastructure.Data.csproj.CoreCompileInputs.cache
+D:\APPS\Viamericas-Technical-Challenge\server\Api.Test\Api.Test\Api.Test.Infrastructure.Data\obj\Debug\netcoreapp2.0\Api.Test.Infrastructure.Data.AssemblyInfoInputs.cache
+D:\APPS\Viamericas-Technical-Challenge\server\Api.Test\Api.Test\Api.Test.Infrastructure.Data\obj\Debug\netcoreapp2.0\Api.Test.Infrastructure.Data.AssemblyInfo.cs
+D:\APPS\Viamericas-Technical-Challenge\server\Api.Test\Api.Test\Api.Test.Infrastructure.Data\obj\Debug\netcoreapp2.0\Api.Test.Infrastructure.Data.csproj.CopyComplete
+D:\APPS\Viamericas-Technical-Challenge\server\Api.Test\Api.Test\Api.Test.Infrastructure.Data\obj\Debug\netcoreapp2.0\Api.Test.Infrastructure.Data.dll
+D:\APPS\Viamericas-Technical-Challenge\server\Api.Test\Api.Test\Api.Test.Infrastructure.Data\obj\Debug\netcoreapp2.0\Api.Test.Infrastructure.Data.pdb
